@@ -3,7 +3,7 @@ Boriana Chtircova, Chavdar Ducov, Lubomir Petrov, Mihail Enimanev
 
 A hackathon project for martian garlic farm with automatic watering ligths and the CO₂ exhaustion
 
-![][https://github.com/mieni/martian_farm/blob/master/img/laika.jpg]
+![](https://github.com/mieni/martian_farm/blob/master/img/laika.jpg)
 ------------------------------------------------------------------------------------
 ## Used hardware
 * [Raspberry pi zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
@@ -19,7 +19,8 @@ A hackathon project for martian garlic farm with automatic watering ligths and t
 
 This is a diagram of the conected pins of the raspberry pi
 
-![][https://github.com/mieni/martian_farm/blob/master/img/pins.png]
+![](https://github.com/mieni/martian_farm/blob/master/img/pins.png)
+
 ------------------------------------------------------------------------------------
 ## Control of sensors and pumps 
 
@@ -51,13 +52,13 @@ the data is transferred via the ```ui_publish.py``` script, using [MQTT protocol
 
 The user interface was made via [node.js](https://nodejs.org/en/ "node.js")  and with it you can control the watering, CO₂  exhaustion and lights. A [raspberry camera](https://www.raspberrypi.org/products/camera-module-v2/)  functionality  was later included and you can take photos of the plant via the UI.
 
-![][https://github.com/mieni/martian_farm/blob/master/img/UI.png]
+![](https://github.com/mieni/martian_farm/blob/master/img/UI.png)
 
 ------------------------------------------------------------------------------------
 
 ## Final product
 
-![][https://github.com/mieni/martian_farm/blob/master/img/final.jpg]
+![](https://github.com/mieni/martian_farm/blob/master/img/final.jpg)
 
 
 
